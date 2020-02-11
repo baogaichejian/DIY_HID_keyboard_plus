@@ -3,13 +3,13 @@
 # oled屏用的是“中景园0.96寸OLED显示屏12864液晶屏”
 # 屏幕接线方式是
 OLED屏	arduino开发板
-GND	     GND
-VCC	     3.3V 或5V
-SCL	     6
-SDA	     5
-RES	     7
-DC	     8
-CS	     9
+GND-->GND,
+VCC-->5V,
+SCL-->6,
+SDA-->5,
+RES-->7,
+DC-->8,
+CS-->9,
 
 # 模式切换键是 10
 
